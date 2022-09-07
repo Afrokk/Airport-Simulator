@@ -1,6 +1,4 @@
 //Afrasiyab Khan
-//Student ID 110034991
-
 //Including required libraries
 
 import java.util.ArrayList;
