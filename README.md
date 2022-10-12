@@ -27,7 +27,7 @@ An Airport ATC Simulator built using Java (OOP), using Stacks & Queues. The simu
 
 Designed and built with vanilla Java. 
 
-* [![Java][Java.com]][Java-url]
+[![Java][Java.com]][Java-url]
 
 ## How it works
 The tester class produces a simple menu printed out to the terminal. The user can interact with the menu as needed. 
