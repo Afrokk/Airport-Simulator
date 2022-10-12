@@ -43,5 +43,5 @@ Afrasiyab (Afrokk) Khan -  [afrokk.design](https://afrokk.design/home) - [Linked
 ANOTHER PROJECT: Check out <strong>Vintage Autohaus</strong>: [https://github.com/Afrokk/Vintage-Autohaus](https://github.com/Afrokk/Vintage-Autohaus)
 
 [product-screenshot]: images/logo.png
-[java.com]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[java-url]: https://www.java.com/en/
+[Java.com]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/en/
