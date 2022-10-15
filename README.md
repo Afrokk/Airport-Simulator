@@ -21,7 +21,7 @@ An Airport ATC Simulator built using Java (OOP), using Stacks & Queues. The simu
 * Adding/Removing planes to/from the landing queue.
 * Queueing the next step for a flight, e.g. take-off or landing.
 * Printing all the data in the queues. 
-* Outputting all the data in the queues in a file. 
+* Outputting all the data in the queues to a file. 
 
 ## Built With
 
